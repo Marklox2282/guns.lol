@@ -96,7 +96,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   const startMessage = "Click here to see the motion baby";
-  let startTextContent = '';
+  let startTextContent = 'Click to continue';
   let startIndex = 0;
   let startCursorVisible = true;
 
@@ -663,6 +663,7 @@ const bioMessages = [
   typeWriterStart();
 
 });
+
 
 
 
